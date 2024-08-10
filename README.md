@@ -5,9 +5,14 @@ This analysis aims to uncover patterns and trends in IPL history, such as identi
 
 Key Observations:
 
-Mumbai Indians have the most wins in four different seasons.
-Eden Gardens has hosted the most IPL matches.
-AB de Villiers is the most valuable player with the most "Player of the Match" awards.
-The biggest victory margins include a 146-run win by a team batting first and a 10-wicket win by a team batting second.
-75% of teams batting first won by 19 runs, and 75% of teams batting second won by 6 wickets.
+-Mumbai Indians have the most wins in four different seasons.
+
+-Eden Gardens has hosted the most IPL matches.
+
+-AB de Villiers is the most valuable player with the most "Player of the Match" awards.
+
+-The biggest victory margins include a 146-run win by a team batting first and a 10-wicket win by a team batting second.
+
+-75% of teams batting first won by 19 runs, and 75% of teams batting second won by 6 wickets.
+
 The analysis also seeks to explore the influence of valuable players on winning the IPL, the most successful team, and the advantages of winning the toss.
